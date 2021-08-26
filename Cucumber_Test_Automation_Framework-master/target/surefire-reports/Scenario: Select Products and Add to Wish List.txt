@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Scenario: Select Products and Add to Wish List
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 25.779 s - in Scenario: Select Products and Add to Wish List
